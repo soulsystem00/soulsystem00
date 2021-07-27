@@ -3,7 +3,12 @@
 
 어떻게 하면 빠르게 구현 할 수 있을까?
 
-<center>hello</center>
+<p align=center>
+  INU 송년 코드페스티벌 2020 <b>동상</b><br>
+  INU Matlab Cody 챌린지 2021 <B>장려상</b><br>
+  2021년도 인천대학교 컴퓨터공학부 졸업작품발표회 <B>장려상</b><br><br>
+  <b>2021.07~ GameMakers 5.5기<br>
+</p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soulsystem00)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soulsystem00)](https://solved.ac/soulsystem00/)  
