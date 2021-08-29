@@ -14,7 +14,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soulsystem00)](https://github.com/anuraghazra/github-readme-stats)  
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soulsystem00)](https://solved.ac/soulsystem00/)  
-  <b>2021.08.18 골드달성!</b>
+<b>2021.08.18 골드달성!</b>  
+<b>2021.08.20 정보처리기사 획득!</b>
 
 <!--
 **soulsystem00/soulsystem00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
