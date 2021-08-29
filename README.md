@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soulsystem00)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soulsystem00)](https://solved.ac/soulsystem00/)  
-<table align=center>
+<table align=center border="10" bordercolor="red">
 <td>
 <p align=center>
   INU 송년 코드페스티벌 2020 <b>동상</b><br>
