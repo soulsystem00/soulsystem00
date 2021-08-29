@@ -17,7 +17,7 @@
 <b>2021.08.20 정보처리기사 획득!</b>  
 알고리즘 공부 중...   
 
-Solved Class3 달성하기!  
+Solved Class4 달성하기!  
 
 <!--
 **soulsystem00/soulsystem00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
