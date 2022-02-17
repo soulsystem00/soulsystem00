@@ -10,6 +10,7 @@
   2021년도 인천대학교 컴퓨터공학부 졸업작품발표회 <B>장려상</b><br>
   INU 코드페스티벌 2021 <b>은상</b><br><br>
   <b>2021.07~.12 GameMakers 5.5기<br>
+    <b>2022.02.16~ 111Percent SuperDreamer<br>
 </p>
   </td>
   </table>
